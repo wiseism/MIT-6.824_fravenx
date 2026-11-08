@@ -30,4 +30,4 @@ jobs:
       run: |
         sed -i 's/\r$//' src/main/test-mr-many.sh
         cd src/main
-        ./test-mr-many.sh
+        ./test-mr-many.sh 1
