@@ -25,4 +25,4 @@ Usage: ./test-mr-many.sh numTrials
 ## 验证
 | run id | 结果 |
 | --- | --- |
-| 本次推送触发 | 待填 |
+| 42442516777 (CI) / 42442516778 (Go) | ✅ success |
