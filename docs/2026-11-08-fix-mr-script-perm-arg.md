@@ -26,3 +26,7 @@ Usage: ./test-mr-many.sh numTrials
 | run id | 结果 |
 | --- | --- |
 | 42442516777 (CI) / 42442516778 (Go) | ✅ success |
+
+## 复核（2026-11-13）
+- 仓库由 private 转 public（Free 分钟额度耗尽会被 billing 拦截）。
+- 重跑 43466857836 (Go) / 43466857762 (CI, labs 测试) 均 ✅ success。
